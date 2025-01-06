@@ -1,0 +1,3 @@
+# .github
+
+End Workplace Abuse strives to protect and promote workers’ right to psychological wellness – critical to physical health, by advocating for the elimination of abusive behaviors (bullying, mobbing, and harassment) from the American workplace. We achieve our mission by organizing and leading a collective movement advocating for psychological safety at work. We lobby for protective legislation and policies, raise public awareness about psychological harm at work, build leaders who campaign for abuse-free workplaces, and collaborate with other organizations advancing workers’ rights. Because bias and prejudice are often an integral part of workplace abuse, we advocate for protections against discrimination.
